@@ -1,1 +1,1 @@
-print("AM RULAT JOHNULE")
+print("AM RULAT JOHNULE a doua oara")
